@@ -63,6 +63,14 @@ The Flutter BLoC pattern has been used to manage the app’s states:
 
 LoginBLoC: Manages authentication logic and state changes.
 ProductsBLoC: Handles fetching and displaying the list of products.
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-11-07 at 00 53 02](https://github.com/user-attachments/assets/8db92fca-3ba0-4513-8870-7170aba1fdd9)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Screenshots
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-11-07 at 00 53 16](https://github.com/user-attachments/assets/eb3dc345-c3bb-48e5-ab7c-5b620825dad8)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-11-07 at 00 53 02](https://github.com/user-attachments/assets/01cc536e-6898-48f3-a30a-4f5fe9098aeb)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-11-07 at 00 52 56](https://github.com/user-attachments/assets/bcc88c19-6154-4988-b2b5-bea613f03c86)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2024-11-06 at 18 51 35](https://github.com/user-attachments/assets/a51b438e-0188-44df-8274-c89fb2b74223)
+
